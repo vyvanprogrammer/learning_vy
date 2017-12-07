@@ -1,2 +1,1 @@
-# learning_vy
-1
+I wanna play
