@@ -3,5 +3,5 @@ Feature:
   Then it'll be a ridiculous number forever
 
   Scenario:
-    <Some interesting scenario steps here>
+   Given I'm at the Login page.
     
