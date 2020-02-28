@@ -4,6 +4,4 @@ Feature:
 
   Scenario:
     <Some interesting scenario steps here>
-    Given I'm at the Login page
-    Then I'm at the Login page
-    And I'm at the Login page
+    
