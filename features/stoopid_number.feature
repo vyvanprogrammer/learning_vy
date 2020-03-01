@@ -3,8 +3,3 @@ Feature:
   Then it'll be a ridiculous number forever.2
 
   Scenario:
-   Given I'm at the Login page.
-   And I'm at the Login page.
-   And I'm at the Login page.
-   Then I'm at the Login page.
-   
