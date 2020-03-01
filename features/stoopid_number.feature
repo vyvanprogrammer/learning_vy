@@ -5,4 +5,5 @@ Feature:
   Scenario:
    Given I'm at the Login page.
    And I'm at the Login page.
+   And I'm at the Login page.
    
