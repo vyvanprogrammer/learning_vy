@@ -4,3 +4,4 @@ Feature:
 
   Scenario:
        Given I'm at the Login page.
+       Then I'm at the Login page.
