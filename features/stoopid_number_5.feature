@@ -1,5 +1,5 @@
 Feature:
-  <Some interesting description here>
+  a
 
   Scenario:
     Then I'm login at the login page
