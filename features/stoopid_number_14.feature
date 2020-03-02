@@ -7,4 +7,5 @@ Feature:
     Then I'm
     Then I'm login
     Given I'm login at the login page
+    And I'm login
     
