@@ -8,4 +8,5 @@ Feature:
     Then I'm login
     Given I'm login at the login page
     And I'm login
+    Then I'm login out
     
